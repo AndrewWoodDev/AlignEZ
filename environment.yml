@@ -1,0 +1,35 @@
+name: self-alignment
+channels:
+  - anaconda
+  - defaults
+  - conda-forge
+  - nvidia
+dependencies:
+  - pip=23.2.1
+  - python=3.9.18
+  - pip:
+      - accelerate
+      - bert-score
+      - bitsandbytes
+      - datasets
+      - einops
+      - evaluate
+      - hydra-core
+      - nltk
+      - numpy
+      - omegaconf
+      - pandas
+      - protobuf==3.20.3
+      - pytorch-lightning
+      - rouge
+      - rouge-score
+      - scikit-learn
+      - scipy
+      - seaborn
+      - sentence-transformers
+      - torch
+      - torchmetrics
+      - torchvision
+      - tqdm
+      - transformers
+
