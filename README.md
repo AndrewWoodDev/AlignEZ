@@ -12,4 +12,3 @@ This repository contains scripts and notebooks for analyzing, evaluating, and vi
 - `multi-objective/`: Core logic and experiments for multi-objective alignment
 - `toxicity/`: Scripts for evaluating toxicity across generations
 - `truthful-qa/`: Evaluation suite for truthfulness metrics
-- `assets/`: Contains sample result visualizations
